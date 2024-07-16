@@ -1,0 +1,12 @@
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+
+# Ignore node.js dependencies
+node_modules/
+
+# Ignore package managers lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
